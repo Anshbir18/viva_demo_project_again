@@ -50,6 +50,7 @@ The primary goals of ProjectName are:
 # Design
 
 
+<img width="933" alt="image" src="https://github.com/Anshbir18/viva_demo_project_again/assets/86255109/4686c610-4d3b-496d-82bf-c8f98a961596">
 
 
 ## Data Flow
